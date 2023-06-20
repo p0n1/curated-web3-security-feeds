@@ -1,0 +1,25 @@
+# Check https://github.com/ssddanbrown/rss#feed-configuration for more information.
+
+# https://feed.url.com/feed.xml feed-name #tag-a #tag-b
+# https://example.com/feed.xml Example #updates #news
+
+# Lines starting with a hash are considered comments.
+# Empty lines are fine and will be ignored.
+
+# Underscores in names will be converted to spaces.
+# https://example.com/feed-b.xml News_Site #news
+
+# Feed color can be set using square brackets after the name.
+# The color must be a CSS-compatible color value.
+# https://example.com/feed-c.xml Blue_News[#0078b9] #news #blue
+
+https://chainsecurity.com/blog/feed/ ChainSecurity #blog
+https://media.dedaub.com/feed Dedaub #blog
+https://github.com/SunWeb3Sec/DeFiHackLabs/commits.atom DeFiHackLabs_Commits #github
+https://blog.theredguild.org/rss/ The_Red_Guild #blog
+https://blog.trailofbits.com/feed/ Trail_of_Bits #blog
+https://zksecurity.xyz/blog/index.xml zkSecurity #blog
+https://medium.com/@ambergroup/feed Amber_Group #blog
+https://rsshub.app/twitter/user/danielvf/readable=1&authorNameBold=1&showAuthorInTitle=1&showAuthorInDesc=1&showQuotedAuthorAvatarInDesc=1&showAuthorAvatarInDesc=1&showEmojiForRetweetAndReply=1&showRetweetTextInTitle=0&addLinkForPics=1&showTimestampInDescription=1&showQuotedInTitle=1&heightOfPics=150 Daniel_Von_Fange #twitter
+https://medium.com/feed/immunefi Immunefi #blog
+https://officercia.mirror.xyz/feed/atom Officer_CIA #blog

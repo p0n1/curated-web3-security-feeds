@@ -1,0 +1,15 @@
+version: "2"
+services:
+    rss:
+        image: ghcr.io/ssddanbrown/rss:latest
+        container_name: rss
+        environment:
+            - APP_NAME=Curated Web3 Security Feeds
+            - APP_CONFIG_FILE=/app/rss/feeds.txt
+            - APP_FEED_UPDATE_FREQUENCY=30
+        volumes:
+            - ./rss:/app/rss/
+            - /data/curated-web3-security-feeds:/app/storage
+        ports:
+            - "8080:80"
+        restart: unless-stopped
