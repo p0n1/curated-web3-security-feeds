@@ -37,6 +37,6 @@ Want to contribute new feeds? Check out the [feed configuration guide](https://g
 
 ## Feedback is Gold 🗣️
 
-Please feel free to suggest any other blogs or websites on Web3 security you appreciate. Your thoughts on adding more GitHub repositories and tweets are also welcomed. Remember, this project's beauty lies in its simplicity and shared effort.
+Please feel free to suggest any other blogs or websites on Web3 security you appreciate. Your thoughts on adding more GitHub repositories and tweets are also welcomed. **Leave a message on [this tweet thread](https://twitter.com/ErrNil/status/1671153468697120774) or open issues directly on this repo**. Remember, this project's beauty lies in its simplicity and shared effort.
 
 **Disclaimer:** This website serves showcase purposes only. The copyright for each content belongs to their respective authors.
