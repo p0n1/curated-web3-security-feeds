@@ -21,6 +21,5 @@ https://blog.trailofbits.com/feed/ Trail_of_Bits #blog
 https://zksecurity.xyz/blog/index.xml zkSecurity #blog
 https://medium.com/@ambergroup/feed Amber_Group #blog
 https://rsshub.app/twitter/user/danielvf Daniel_Von_Fange #twitter
-https://rsshub.app/twitter/user/danielvf/readable=1 Daniel_Von_Fange_readable #twitter
 https://medium.com/feed/immunefi Immunefi #blog
 https://officercia.mirror.xyz/feed/atom Officer_CIA #blog
