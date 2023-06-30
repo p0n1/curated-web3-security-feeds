@@ -13,6 +13,7 @@
 # The color must be a CSS-compatible color value.
 # https://example.com/feed-c.xml Blue_News[#0078b9] #news #blue
 
+https://newsletter.blockthreat.io/feed Blockchain_Threat_Intelligence #newsletter
 https://chainsecurity.com/blog/feed/ ChainSecurity #blog
 https://media.dedaub.com/feed Dedaub #blog
 https://github.com/SunWeb3Sec/DeFiHackLabs/commits.atom DeFiHackLabs_Commits #github
